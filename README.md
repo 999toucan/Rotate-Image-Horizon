@@ -5,7 +5,7 @@ A common problem in photography is that without a tripod it is hard to get a per
 ## Simple Horizon
 
 ```python
-line = image(r".\line.png") 
+line = image(r"images\line1.png") 
 line.rotate_horizon(0, blur=False)
 ```
 ![1.1 Base image](images/line1.png?raw=true)
@@ -16,9 +16,10 @@ Put the image through Hough Line transformation and find the rotational angle of
 ![1.3 After rotation](images/line1Rotated.png?raw=true)
 
 ## Example: With a Simple Line
-
-A simple line.
-
+```python
+line = image(r"images\line2.png") 
+line.rotate_horizon(0, blur=True)
+```
 In this example, a Gaussian blur is applied to smooth data. Otherwise due to the limited resolution the Hough Lines come out to be perfectly horizontal.
 
 ![2.1 Base image](images/line2.png?raw=true)
