@@ -72,7 +72,7 @@ Example of script with image of hall way [[3]]( https://weloveeastvan.com/concre
 
 ## Example: Another One Point Perspective
 
-Another example with picture of costco aisles.
+Another example with picture of costco aisles. This is a picture with two point perspectives, however we can make it aligned to the shelves in the back instead.
 
 |![4.1 Base image](images/costco.jpg?raw=true)|
 |--|
