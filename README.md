@@ -53,31 +53,29 @@ Based on reference [[1]](https://iopscience.iop.org/article/10.1088/1742-6596/17
 Example of script with image of hall way [[3]]( https://weloveeastvan.com/concrete-buildings/).
 
 |![3.1 Base image](images/hall.png?raw=true)|
-| :--: |
 |3.1 Base image|
+
 |![3.2 Hough lines and vanishing point](images/hallHoughLines.png?raw=true)|
-| :--: |
 |3.2 Diagram of calculated hough lines and vanishing point|
+
 |![3.3 Pick new horizon with support points](images/hallHoughLinesCalibrate.png?raw=true)|
-| :--: |
 |3.3 Pick new horizon with support points|
+
 |![3.2 After -0.0039 degree rotation](images/hallRotated.png?raw=true)|
-| :--: |
 |3.2 After -0.0039 degrees of rotation|
 
 
 
 |![4.1 Base image](images/costco.jpg?raw=true)|
-| :--: |
 |4.1 Base image|
+
 |![4.2 Hough lines and vanishing point](images/costcoHoughLines.png?raw=true)|
-| :--: |
 |4.2 Hough lines and vanishing point|
+
 |![4.3 Pick new horizon with support points](images/costcoHoughLinesCalibrate.png?raw=true)|
-| :--: |
 |4.3 Pick new horizon with support points|
+
 |![4.2 After rotation](images/costcoRotated.png?raw=true)|
-| :--: |
 |4.2 After rotation|
 
 ## References
